@@ -1,0 +1,79 @@
+﻿#body{
+  background-color: lightblue;
+  text-align: center;
+}
+
+#idCard {
+    font-family:Calibri,Arial, Helvetica, sans-serif;
+   border: 5px solid black;
+   border-radius: 25px;
+   height: 14em;
+   width: 25em;
+   background-color: lightgray;
+  display:inline-block;
+}
+
+
+#firstName{
+    margin-bottom: 5px;
+}
+
+#lastName{
+    margin-bottom: 5px;
+}
+
+#age{
+    margin-bottom: 5px;
+}
+
+#phoneNumber{
+    margin-bottom: 5px;
+}
+
+#address{
+    margin-bottom: 5px;
+}
+
+button{
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+label{
+    font-weight:bold;
+}
+
+#postFullName{
+    
+    font-size: 35px;
+   margin-top: 25px
+}
+
+#postAge{
+    position:absolute;
+
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
+#postPhoneNumber{
+    position:absolute;
+   margin-left: 10px;
+   margin-top: 30px;
+   ;
+}
+
+#postAddress{
+    position:absolute;
+    margin-left:10px;
+    margin-top:60px;
+}
+
+#img {
+   width: 90px;
+   height: 90px;
+   float:left;
+  }
+
+
+
